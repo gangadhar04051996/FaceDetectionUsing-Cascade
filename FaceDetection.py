@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Feb 17 16:13:34 2020
-
+Face and eye detection using the haar cascade trainers
 @author: Gangadhar
 """
 
